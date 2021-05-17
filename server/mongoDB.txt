@@ -1,0 +1,1 @@
+mongoose.connect('mongodb+srv://chris_newton:EdSu79FRdiKeqe5@cluster0.kiooe.mongodb.net/house_app?retryWrites=true&w=majority',{useNewUrlParser: true, useUnifiedTopology: true})
